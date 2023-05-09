@@ -7,7 +7,7 @@
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinFlora&show_icons=true&theme=radical"/>
 </div>
 <div>
-<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFlora"/>
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFlora"/>
 </div>
 
 <div style="display: inline_block"><br>
