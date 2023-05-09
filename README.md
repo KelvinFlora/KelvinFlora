@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Desenvolvimento Web (Front e Back-end) e estou em busca de um estágio!
 - 🌱 Atualmente estou aprendendo Vue.JS e pretendo aprender TypeScript em breve.
 
-<div style="text-align: center">
+<div style="align-itens: center">
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinFlora&show_icons=true&theme=radical"/>
 </div>
 <div>
