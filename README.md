@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kelvin. Prazer em recebê-lo por aqui! 😉
 
 - 🔭 Atualmente trabalho com Desenvolvimento Web (Front e Back-end) e estou em busca de um estágio!
-- 🌱 Atualmente estou aprendendo Vue.JS e pretendo aprender TypeScript em breve.
+- 🌱 Atualmente estou aprendendo Node Express e MongoDB. Pretendo aprender em breve AWS, Angular e Ionic.
 
 <div>
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinFlora&show_icons=true&theme=radical"/>
