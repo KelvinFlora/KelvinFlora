@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Kelvin. Prazer em recebê-lo por aqui! 😉
 
-- 🔭 Atualmente trabalho com Desenvolvimento Web (Front e Back-end) e estou em busca de um estágio!
-- 🌱 Estou aprendendo Ionic e Angular. Pretendo aprender em breve AWS e Swift.
-
 <div>
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinFlora&show_icons=true&theme=radical"/>
 </div>
