@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Kelvin. Prazer em recebê-lo por aqui! 😉
+### Sou Engenheiro de Dados no Itaú Unibanco.
 
 <div>
 <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KelvinFlora&show_icons=true&theme=radical"/>
